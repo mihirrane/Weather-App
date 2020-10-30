@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import iconCache from './index.js';
 
 const api = {
-  key : "85b152649d9db0ed0530d2c67b005e23",
+  key : "GET_KEY_FROM_OPENWEATHERMAP.COM",
   base : "https://api.openweathermap.org/data/2.5/"
 }
 
