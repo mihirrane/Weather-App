@@ -25,5 +25,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://create-react-app.dev/docs/deployment/) for more information.
-
-You can find the website at: 
